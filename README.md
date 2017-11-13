@@ -16,3 +16,5 @@ There are 5 notebooks in my repository:
 4. Lemmatizing  
 5. Topic Modeling using Latent Semantic Analysis  
 6. Final Model using LSA and KMeans clustering
+
+Here is a link to an interactive app that I made to summarize my project  ![Airline Tweets](https://airline-tweets.herokuapp.com/)
