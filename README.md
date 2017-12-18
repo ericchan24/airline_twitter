@@ -10,12 +10,12 @@ I used [spaCy](https://spacy.io/) to tokenize and build my corpus.
 I used Latent Semantic Analysis (LSA) and KMeans clustering to generate my list of topics.  
 
 There are six notebooks in my repository:  
-1. Getting tweets  
-2. Cleaning and sentiment analysis  
-3. More cleaning  
-4. Lemmatizing  
-5. Topic Modeling using Latent Semantic Analysis  
-6. Final Model using LSA and KMeans clustering
+1. [Getting tweets](https://github.com/ericchan24/airline_twitter/blob/master/notebooks/01.%20get_tweets.ipynb)  
+2. [Cleaning and sentiment analysis](https://github.com/ericchan24/airline_twitter/blob/master/notebooks/02.%20cleaning_and_sentiment_analysis.ipynb)  
+3. [More cleaning](https://github.com/ericchan24/airline_twitter/blob/master/notebooks/03.%20more_cleaning.ipynb)  
+4. [Lemmatizing](https://github.com/ericchan24/airline_twitter/blob/master/notebooks/04.%20lemmatize.ipynb)  
+5. [Topic Modeling using Latent Semantic Analysis](https://github.com/ericchan24/airline_twitter/blob/master/notebooks/05.%20topic_modeling_lsa.ipynb)
+6. [Final Model using LSA and KMeans clustering](https://github.com/ericchan24/airline_twitter/blob/master/notebooks/06.%20final_model.ipynb)  
 
 Here is a link to an interactive app that I made to summarize my project  [Airline Tweets](https://airline-tweets.herokuapp.com/)  
 Here is a link to my blog post about the project. [Blog Post](https://ericchan24.squarespace.com/blog/analyzingairlinetweets)
