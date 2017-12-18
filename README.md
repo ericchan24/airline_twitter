@@ -6,7 +6,7 @@ I used natural language processing (NLP) to extract a list of topics from tweets
 The tweets were stored in MongoDB.  
 
 I wrote my own cleaning module to handle twitter specific issues such as slang, emojis, twitter handles, and misspellings.  
-I used ![spaCy](https://spacy.io/) to tokenize and build my corpus.  
+I used [spaCy](https://spacy.io/) to tokenize and build my corpus.  
 I used Latent Semantic Analysis (LSA) and KMeans clustering to generate my list of topics.  
 
 There are six notebooks in my repository:  
@@ -17,5 +17,5 @@ There are six notebooks in my repository:
 5. Topic Modeling using Latent Semantic Analysis  
 6. Final Model using LSA and KMeans clustering
 
-Here is a link to an interactive app that I made to summarize my project  ![Airline Tweets](https://airline-tweets.herokuapp.com/)  
-Here is a link to my blog post about the project. ![Blog Post](https://ericchan24.squarespace.com/blog/analyzingairlinetweets)
+Here is a link to an interactive app that I made to summarize my project  [Airline Tweets](https://airline-tweets.herokuapp.com/)  
+Here is a link to my blog post about the project. [Blog Post](https://ericchan24.squarespace.com/blog/analyzingairlinetweets)
