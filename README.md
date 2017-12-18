@@ -18,3 +18,4 @@ There are six notebooks in my repository:
 6. Final Model using LSA and KMeans clustering
 
 Here is a link to an interactive app that I made to summarize my project  ![Airline Tweets](https://airline-tweets.herokuapp.com/)
+Here is a link to my blog post about the project. ![Blog Post](https://ericchan24.squarespace.com/blog/analyzingairlinetweets)
